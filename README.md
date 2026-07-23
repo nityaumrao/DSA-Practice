@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0344-reverse-string) |
 | [1143-longest-common-subsequence](https://github.com/nityaumrao/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityaumrao/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
