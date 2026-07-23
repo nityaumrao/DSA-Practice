@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nityaumrao/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0994-rotting-oranges](https://github.com/nityaumrao/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nityaumrao/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/nityaumrao/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nityaumrao/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nityaumrao/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/nityaumrao/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
