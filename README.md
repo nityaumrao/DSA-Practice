@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nityaumrao/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityaumrao/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0994-rotting-oranges](https://github.com/nityaumrao/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Hash Table
@@ -54,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityaumrao/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityaumrao/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
