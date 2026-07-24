@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nityaumrao/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nityaumrao/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/nityaumrao/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nityaumrao/DSA-Practice/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/nityaumrao/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nityaumrao/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -80,5 +82,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nityaumrao/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nityaumrao/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
