@@ -8,9 +8,9 @@ class Solution {
         return f1(s, 0 , s.length()-1 , dp);
     }
     private int f1(String s , int l , int r , int[][] dp){
-        if(l>=r) return 0;
         
         if(dp[l][r] != -1) return dp[l][r];
+        if(l>=r) return dp[l][r] = 0 ;
 
         if(s.charAt(r)==s.charAt(l)){
             return dp[l][r] = f1(s,l+1,r-1,dp);
