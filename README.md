@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0344-reverse-string) |
 | [1143-longest-common-subsequence](https://github.com/nityaumrao/DSA-Practice/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/nityaumrao/DSA-Practice/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
 |  |
 | ------- |
