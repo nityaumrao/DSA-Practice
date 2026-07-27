@@ -2,16 +2,16 @@ class Solution {
     public int maxProduct(int[] nums) {
         int n = nums.length ;
         int maxi = 0  , maxi2 = 0 ;
-        for(int i = 0 ; i<n ; i++){
-            if(maxi<nums[i]){
+        for(int num : nums ){
+            if(maxi<num){
                 maxi2=maxi;
-                maxi = nums[i];
+                maxi = num;
             }else {
-                maxi2 = Math.max(nums[i] , maxi2);
+                maxi2 = Math.max(num, maxi2);
             }
             
         }
-        int sum = (maxi-1)*(maxi2-1);
-        return sum ;
+        
+        return (maxi-1)*(maxi2-1);
     }
 }
