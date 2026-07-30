@@ -14,20 +14,13 @@ class Solution {
             sufix[i] = sufix[i-1]*nums[n-i] ;
             
         }
-
         int[] ans = new int[n] ;
         if(z >=2){
             Arrays.fill(ans,0);
             return ans ;
         }
-
         for(int i = 0 ; i<n ; i++){
             int multi = prefix[i]*sufix[n-1-i];
-            if(nums[i]==0) {
-                Arrays.fill(ans,0) ;
-                ans[i] = multi ;
-                break ;
-            }
             ans[i] = multi ;
         }
         return ans ;
