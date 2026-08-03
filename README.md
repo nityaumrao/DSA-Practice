@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nityaumrao/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/nityaumrao/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nityaumrao/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/nityaumrao/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nityaumrao/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nityaumrao/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nityaumrao/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nityaumrao/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/nityaumrao/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nityaumrao/DSA-Practice/tree/master/0486-predict-the-winner) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nityaumrao/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
