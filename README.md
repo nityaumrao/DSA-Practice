@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nityaumrao/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/nityaumrao/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nityaumrao/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/nityaumrao/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nityaumrao/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/nityaumrao/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nityaumrao/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/nityaumrao/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/nityaumrao/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityaumrao/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/nityaumrao/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nityaumrao/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
