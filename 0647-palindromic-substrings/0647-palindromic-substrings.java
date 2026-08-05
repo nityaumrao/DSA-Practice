@@ -1,26 +1,13 @@
 class Solution {
     int count ;
     public int countSubstrings(String s) {
-        
         int n = s.length();
         for(int i = 0 ; i<n ; i++){
             for(int j = i ; j<n ; j++){
                 if (f1(s.substring(i,j+1))) count++;
             }
         }
-            
         return count ;
-    }
-    private void f2(String s ){
-        // if(s.length()==0) return ;
-        // if(s.length()==1){
-        //     count++;
-        //     return ;
-        // }
-        
-        // f2(s.substring(i+1,j+1));
-        // f2(s.substring(i,j));
-
     }
     private boolean f1(String s ){
         if(s.length()==0) return false ;
