@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nityaumrao/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/nityaumrao/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityaumrao/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nityaumrao/DSA-Practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/nityaumrao/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nityaumrao/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nityaumrao/DSA-Practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/nityaumrao/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/nityaumrao/DSA-Practice/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/nityaumrao/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nityaumrao/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nityaumrao/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nityaumrao/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityaumrao/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nityaumrao/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/nityaumrao/DSA-Practice/tree/master/0647-palindromic-substrings) |
