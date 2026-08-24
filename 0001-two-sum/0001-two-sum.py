@@ -1,0 +1,10 @@
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        freq = {}
+        for i in range(len(nums)) :
+            if target-nums[i] in freq :
+                return [i,freq.get(target-nums[i])]
+            else :
+                freq[nums[i]]=i
+
+        return [-1,-1]
