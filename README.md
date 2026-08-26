@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nityaumrao/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/nityaumrao/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nityaumrao/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/nityaumrao/DSA-Practice/tree/master/1143-longest-common-subsequence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nityaumrao/DSA-Practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nityaumrao/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nityaumrao/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/nityaumrao/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nityaumrao/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/nityaumrao/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nityaumrao/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/nityaumrao/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nityaumrao/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting Sort
