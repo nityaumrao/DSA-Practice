@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/nityaumrao/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/nityaumrao/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nityaumrao/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/nityaumrao/DSA-Practice/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nityaumrao/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0994-rotting-oranges](https://github.com/nityaumrao/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nityaumrao/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/nityaumrao/DSA-Practice/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nityaumrao/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/nityaumrao/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
